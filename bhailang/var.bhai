@@ -1,0 +1,11 @@
+hi bhai
+  bhai ye hai a = 10;
+  bhai ye hai b = "two";
+  bhai ye hai c = 15;
+  a = a + 1;
+  b = 21;
+  c *= 2;
+bol bhai a;
+bol bhai b;
+bol bhai c;
+bye bhai

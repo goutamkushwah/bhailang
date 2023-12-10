@@ -1,0 +1,9 @@
+hi bhai
+bhai ye hai i=0;
+
+jab tak bhai (i<=10){
+
+    bol bhai i;
+  i+=1;
+}  
+bye bhai

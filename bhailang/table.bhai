@@ -1,0 +1,11 @@
+hi bhai
+
+  bhai ye hai a = 3;
+  bhai ye hai b = 0;
+
+  jab tak bhai (b < 10) {
+    b += 1;
+    bol bhai a," * ", b, " = ", a*b  ;
+  }
+
+bye bhai

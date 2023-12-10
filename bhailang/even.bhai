@@ -1,0 +1,9 @@
+hi bhai
+bhai ye hai a=2;
+agar bhai(a%2==0){
+    bol bhai "no is even";
+}
+warna bhai {
+    bol bhai "no is odd";
+}
+bye bhai

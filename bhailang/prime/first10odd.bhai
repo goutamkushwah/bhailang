@@ -1,0 +1,7 @@
+hi bhai
+bhai ye hai a=1;
+jab tak bhai(a<=20){
+    bol bhai a;
+    a+=2;
+}
+bye bhai

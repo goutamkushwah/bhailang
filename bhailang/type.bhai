@@ -1,0 +1,18 @@
+hi bhai
+    bhai ye hai a = 10;
+    bol bhai a;
+    //bol bhai typeof(a);
+    bhai ye hai b = 10 + (15*20);
+    bol bhai b;
+    bhai ye hai c = "two";
+    bol bhai c;
+    bhai ye hai d = 'ok';
+    bol bhai d;
+    bhai ye hai e = nalla;
+    bol bhai e;
+    bhai ye hai f = sahi;
+    bol bhai f;
+    bhai ye hai g = galat;
+    bol bhai g;
+bye bhai
+    

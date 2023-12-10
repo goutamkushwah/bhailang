@@ -1,0 +1,16 @@
+hi bhai
+bhai ye hai age = 98;
+agar bhai (age>=18){
+bol bhai "tum vaccine lagwa sakta ho";
+bhai ye hai days = 90;
+agar bhai (days>=90){
+bol bhai "tum 2 ra does lagwa saka ho";
+}
+  warna bhai{
+bol bhai "tum dusra does nahi lagwa sakta ho";
+}
+}
+ warna bhai {
+bol bhai "tum vaccine nahi lagwa sakta ho";
+}
+bye bhai

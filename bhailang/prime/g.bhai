@@ -1,0 +1,32 @@
+hi bhai
+ bhai ye hai flag = sahi;
+ bhai ye hai a = 7;
+ bhai ye hai i = a;
+
+jab tak bhai (i >= 2) {
+    agar bhai (i % 2 == 0) {
+        flag = galat;
+        bas kar bhai;
+    }
+
+     bhai ye hai j = i - 1;
+
+    jab tak bhai(j >= 2) {
+        agar bhai (i % j == 0) {
+            flag = galat;
+            bas kar bhai;
+        }
+        j -= 1;
+    }
+
+    agar bhai(flag == sahi) {
+        bol bhai "Prime no";
+    }
+    warna bhai{
+        bol bhai"Non-prime no";
+    }
+
+    bas kar bhai;
+}
+
+bye bhai

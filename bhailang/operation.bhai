@@ -1,0 +1,11 @@
+hi bhai 
+bhai ye hai a=2;
+bhai ye hai b=3;
+bol bhai a," + ", b, " = ", a+b; 
+bol bhai a," - ", b, " = ", a-b; 
+bol bhai a," * ", b, " = ", a*b; 
+bol bhai  a," / ", b, " = ", a/b; 
+bol bhai a," % ", b, " = ", a%b; 
+
+bye bhai
+
